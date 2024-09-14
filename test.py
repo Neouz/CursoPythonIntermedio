@@ -6,3 +6,5 @@ def fun_max(n1:int,n2:int):
 
 print (fun_max(1,2))
 print (fun_max(2,1))
+
+"Comentario"
