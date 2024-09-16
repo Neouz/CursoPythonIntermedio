@@ -8,3 +8,6 @@ print (fun_max(1,2))
 print (fun_max(2,1))
 
 "Comentario"
+
+lista1 = [1,2,3,4,5]
+print(lista1[0])
